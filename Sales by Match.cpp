@@ -4,7 +4,6 @@ using namespace std;
 int main(){
     int n;
     int temp;
-    bool con = false;
     int pairs = 0;
     vector<int> v;
     vector<int> :: iterator it;
